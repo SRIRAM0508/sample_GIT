@@ -6,7 +6,7 @@ public class andhrastate extends Tamilnadu {
 	
 	
 public void andhrastate() {
-	
+
 	System.out.println("Andhra state");
 }
 
